@@ -1,4 +1,4 @@
-# Hi, I'm [Amha Haileslassie] 👋
+# Hi, I'm Amha Haileslassie 👋
 
 ## 🔹 About Me
 - 💻 Cryptanalyst at **INSA** (Apr 2015 – Oct 2022)  
@@ -60,5 +60,5 @@
 ## 📫 Connect with Me
 - GitHub: [amh21-Ha](https://github.com/amh21-Ha)  
 - LinkedIn:[amha](https://www.linkedin.com/in/amha-haileslassie-477217227)  
-- Email: (amha.ha07@gmail.com)  
+- Email: amha.ha07@gmail.com  
 - Phone: +251 919047583
