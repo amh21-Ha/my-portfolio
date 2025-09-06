@@ -59,6 +59,6 @@
 
 ## 📫 Connect with Me
 - GitHub: [amh21-Ha](https://github.com/amh21-Ha)  
-- LinkedIn: https://www.linkedin.com/in/amha-haileslassie-477217227  
-- Email: amha.ha07@gmail.com  
+- LinkedIn:[amha](https://www.linkedin.com/in/amha-haileslassie-477217227)  
+- Email: (amha.ha07@gmail.com)  
 - Phone: +251 919047583
